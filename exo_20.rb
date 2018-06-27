@@ -5,7 +5,5 @@ while n != 1
  	
  print "Voici la pyramide :"
  		  
-  0.upto(n).each{|n| puts ("#"*n ).rjust(1)}
+  1.upto(n).each{|n| puts ("#"*n ).rjust(chiffre*2)}
   
-  break if n>1
-end
