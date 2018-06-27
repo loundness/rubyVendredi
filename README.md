@@ -4,4 +4,6 @@
 
 - Exercice 20, "exo_20.rb", la pyramide, cet exercice a pour but de demander un nombre d'étages et suivant le nombre ça affiche le nombre d'etage façon pyramide
 
+- Exercice pyramide.rb, cet exercice reprend le même fonctionnement que l'exercice "exo_20.rb" à la différence que les étages montent à l'opposé sur la gauche
+
 
