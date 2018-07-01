@@ -6,4 +6,6 @@
 
 - Exercice pyramide.rb, cet exercice reprend le même fonctionnement que l'exercice "exo_20.rb" à la différence que les étages montent à l'opposé sur la gauche
 
+- Exercice 12, "exo_12.rb", cet exercice demande un numéro, pour compter jusqu'à ce numéro
+
 
